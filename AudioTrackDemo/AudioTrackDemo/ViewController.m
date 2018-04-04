@@ -71,7 +71,7 @@
 {
     sender.enabled = NO;
     
-    NSString *videoPath = [[NSBundle mainBundle] pathForResource:@"shark" ofType:@"mp4"];
+    NSString *videoPath = [[NSBundle mainBundle] pathForResource:@"video" ofType:@"mp4"];
     
     NSURL *videoUrl = [NSURL fileURLWithPath:videoPath];
     

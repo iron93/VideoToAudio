@@ -13,7 +13,7 @@
 		9431E2E31E8A64280010282D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9431E2E11E8A64280010282D /* Main.storyboard */; };
 		9431E2E51E8A64280010282D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9431E2E41E8A64280010282D /* Assets.xcassets */; };
 		9431E2E81E8A64280010282D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9431E2E61E8A64280010282D /* LaunchScreen.storyboard */; };
-		9431E2F01E8A6A170010282D /* shark.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9431E2EF1E8A6A170010282D /* shark.mp4 */; };
+		9466534C2074B12400C1C700 /* video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9466534B2074B12400C1C700 /* video.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		9431E2E41E8A64280010282D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9431E2E71E8A64280010282D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9431E2E91E8A64280010282D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9431E2EF1E8A6A170010282D /* shark.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = shark.mp4; sourceTree = "<group>"; };
+		9466534B2074B12400C1C700 /* video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,13 +60,13 @@
 		9431E2D71E8A64280010282D /* AudioTrackDemo */ = {
 			isa = PBXGroup;
 			children = (
-				9431E2EF1E8A6A170010282D /* shark.mp4 */,
 				9431E2DB1E8A64280010282D /* AppDelegate.h */,
 				9431E2DC1E8A64280010282D /* AppDelegate.m */,
 				9431E2DE1E8A64280010282D /* ViewController.h */,
 				9431E2DF1E8A64280010282D /* ViewController.m */,
 				9431E2E11E8A64280010282D /* Main.storyboard */,
 				9431E2E41E8A64280010282D /* Assets.xcassets */,
+				9466534B2074B12400C1C700 /* video.mp4 */,
 				9431E2E61E8A64280010282D /* LaunchScreen.storyboard */,
 				9431E2E91E8A64280010282D /* Info.plist */,
 				9431E2D81E8A64280010282D /* Supporting Files */,
@@ -142,9 +142,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				9431E2E81E8A64280010282D /* LaunchScreen.storyboard in Resources */,
-				9431E2F01E8A6A170010282D /* shark.mp4 in Resources */,
 				9431E2E51E8A64280010282D /* Assets.xcassets in Resources */,
 				9431E2E31E8A64280010282D /* Main.storyboard in Resources */,
+				9466534C2074B12400C1C700 /* video.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
